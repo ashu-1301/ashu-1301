@@ -10,6 +10,7 @@ Hi there 👋
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ashu-1301/ashu-1301/tree/master/0058-length-of-last-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashu-1301/ashu-1301/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Array
 |  |
 | ------- |
@@ -42,4 +43,8 @@ Hi there 👋
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashu-1301/ashu-1301/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ashu-1301/ashu-1301/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
