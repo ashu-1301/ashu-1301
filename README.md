@@ -14,6 +14,7 @@ Hi there 👋
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ashu-1301/ashu-1301/tree/master/0066-plus-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashu-1301/ashu-1301/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ Hi there 👋
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ashu-1301/ashu-1301/tree/master/0066-plus-one) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ashu-1301/ashu-1301/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
